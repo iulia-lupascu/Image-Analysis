@@ -1,4 +1,4 @@
-# mage Processing & Segmentation Assignment – Spatial/Frequency Domain, HSV Analysis & Vessel Extraction
+# Image Processing & Segmentation Assignment – Spatial/Frequency Domain, HSV Analysis & Vessel Extraction
 
 This repository contains code and results for an image processing and computer vision assignment, covering the following major components:
 
